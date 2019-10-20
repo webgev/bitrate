@@ -1,0 +1,33 @@
+[
+    {
+        "model": "rate.Currency",
+        "pk": 1,
+        "fields": {
+            "name": "BTC"
+        }
+    },{
+        "model": "rate.Currency",
+        "pk": 2,
+        "fields": {
+            "name": "ETH"
+        }
+    },{
+        "model": "rate.Currency",
+        "pk": 3,
+        "fields": {
+            "name": "XRP"
+        }
+    },{
+        "model": "rate.Currency",
+        "pk": 4,
+        "fields": {
+            "name": "NEO"
+        }
+    },{
+        "model": "rate.Currency",
+        "pk": 5,
+        "fields": {
+            "name": "LTC"
+        }
+    }
+]
